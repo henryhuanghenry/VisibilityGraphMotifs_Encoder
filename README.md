@@ -29,7 +29,7 @@ This repository contains the following files:
 - Using the "divide and concur" idea, O(NlogN). Details refer to [Fast transformation from time series to visibility graphs](https://doi.org/10.1063/1.4927835).
 
 ## Reference
-If you use the codes, please star this repository and cite the URL of this repository.
+If you use the codes, #please star this repository and cite the URL of this repository.# Please~ :)
 
 The reference of the visibility graph are provided as follows:
 - [From time series to complex networks: The visibility graph](www.pnas.org/cgi/doi/10.1073/pnas.0709247105) The core paper of the Natural Visibility Graph.

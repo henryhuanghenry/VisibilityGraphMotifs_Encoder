@@ -31,6 +31,8 @@ This repository contains the following files:
 ## Reference
 If you use the codes, **Please star this repository and cite the URL of this repository.** Please~ :)
 
+If you have any problems, please do not hesitate to contact me.
+
 The reference of the visibility graph are provided as follows:
 - [From time series to complex networks: The visibility graph](www.pnas.org/cgi/doi/10.1073/pnas.0709247105) The core paper of the Natural Visibility Graph.
 - [Horizontal visibility graphs: Exact results for random time series](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.80.046103) The core paper of the Horizontal Visibility Graph.

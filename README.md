@@ -6,6 +6,15 @@ Encoders in language Python and Matlab are provided.
 
 #Python #Matlab #Visibility Graph
 
+Chinese:
+
+可视图的编码器。可以将所给的时间序列翻译成可视图。提供python和matlab两种语言。
+
+文件的注释为英文。关于可视图和编码的算法请参考本文的最末的参考文献。
+
+如果有任何问题，可以提出issues。欢迎使用本代码进行学术研究，别忘了引用本仓库的链接，随手给个star也行哦！:)
+
+
 ## Contents
 This repository contains the following files:
 ### NVGcode.m

@@ -18,6 +18,8 @@ Chinese:
 
 Our paper entitled ["Natural visibility encoding for time series and its application in stock trend prediction"](https://doi.org/10.1016/j.knosys.2021.107478) has been published 😃. 
 
+If you are interested in our work and having difficulties in accessing the article, please contact me.
+
 ---
 ## Contents
 This repository contains the following files:
@@ -43,6 +45,20 @@ This repository contains the following files:
 
 ## Reference
 If you use the codes, **Please star this repository and cite the URL of this repository.** Please~ :)
+
+You could also cite our paper using:
+```bibtex
+@article{HUANG2021107478,
+title = {Natural visibility encoding for time series and its application in stock trend prediction},
+journal = {Knowledge-Based Systems},
+volume = {232},
+pages = {107478},
+year = {2021},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2021.107478},
+author = {Yusheng Huang and Xiaoyan Mao and Yong Deng},
+}
+```
 
 If you have any problems, please do not hesitate to contact me.
 

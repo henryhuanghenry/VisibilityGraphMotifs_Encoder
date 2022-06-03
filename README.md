@@ -14,7 +14,11 @@ Chinese:
 
 如果有任何问题，可以提出issues。欢迎使用本代码进行学术研究，别忘了引用本仓库的链接，随手给个star也行哦！:)
 
+---
 
+Our paper entitled ["Natural visibility encoding for time series and its application in stock trend prediction"](https://doi.org/10.1016/j.knosys.2021.107478) has been published 😃. 
+
+---
 ## Contents
 This repository contains the following files:
 ### NVGcode.m
